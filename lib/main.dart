@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
         length: 4, //numero de pestanas -icons
         child: new Scaffold(
           appBar: new AppBar(
-            title: new Text("Control de cortes de mi Hureta "),
+            title: new Text("Control de cortes de mi Huerta "),
             bottom: new TabBar(
                 indicatorColor: Colors.brown,
                 indicatorWeight: 6.0,
